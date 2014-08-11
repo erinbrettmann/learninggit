@@ -1,5 +1,0 @@
-Here's a file with text in it
-I'm going to use this file to learn git
-It says some stuff
-It doesn't really matter what
-This is more complicated than this morning
